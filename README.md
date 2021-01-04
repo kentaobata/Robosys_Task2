@@ -46,8 +46,11 @@ Raspberry Pi 4 (8GB)
  tab 4  
  `rostopic echo /number`  
  
- # Licence
- BSD
+ # Licence  
+ BSD 3-Clause License  
+ 
+ #Refarence
+ 
  
 
  
