@@ -1,13 +1,8 @@
 # Robot system science Task2   
 Multiple display system  　
 
-## Example of use   
-tab 1  
-`roscore`  
+# xample of use     
 
-tab 2  
-`rosrun mypkg count.py`  
- 
 tab 3  
 `rosrun mypkg multiple.py`  
 [INFO] [1609749950.749935]: 16  
@@ -30,15 +25,15 @@ data: 4
 data: 1  
 data: 5  
 
-### Demo  
+# Demo  
 
-#### Operating environment  
+# Operating environment  
 OS : Linux20.04.1 LTS  
 
-##### What was used  
+# What was used  
 Raspberry Pi 4 (8GB)  
 
-###### Usage
+# Usage
 `$git clone https://github.com/kentaobata/Robosys_Task2.git`   
  tab 1  
  `roscore`  
