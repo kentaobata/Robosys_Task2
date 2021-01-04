@@ -45,5 +45,9 @@ Raspberry Pi 4 (8GB)
  `rosrun mypkg multiple.py`  
  tab 4  
  `rostopic echo /number`  
+ 
+ # Licence
+ BSD
+ 
 
  
