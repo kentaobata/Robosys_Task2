@@ -4,8 +4,10 @@ Multiple display system  　
 ## Example of use   
 tab 1  
 `roscore`  
+
 tab 2  
 `rosrun mypkg count.py`  
+ 
 tab 3  
 `rosrun mypkg multiple.py`  
 [INFO] [1609749950.749935]: 16  
@@ -21,6 +23,7 @@ tab 3
 6の倍数  
 9の倍数  
 18の倍数  
+
 tab 4  
 `rostopic echo /number` 
 data: 4  
