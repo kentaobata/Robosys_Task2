@@ -46,7 +46,7 @@ def callback(message):
 
     rospy.loginfo(message.data)
     num = 0
-    for multi in range(2, 50):
+    for multi in range(2, n-1):
         if n % multi == 0:
             print('%dの倍数' % multi)
             num += 1
@@ -58,6 +58,8 @@ if __name__ == '__main__':
     rate = rospy.Rate(0.5)
     while not rospy.is_shutdown():
             pub.publish(num)
+            if num == 0:
+                print('素数')
             rate.sleep()
 
 
