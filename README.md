@@ -5,6 +5,7 @@ Multiple display system  　
 
 tab 3  
 `rosrun mypkg multiple.py` : Display divisors up to 50, which increases by 1　　
+
 [INFO] [1609749950.749935]: 16  
 2の倍数  
 4の倍数  
@@ -20,7 +21,8 @@ tab 3
 18の倍数  
 
 tab 4  
-`rostopic echo /number`　: Show the number of divisors of each number　　　　
+`rostopic echo /number`　: Show the number of divisors of each number　
+
 data: 4  
 data: 1  
 data: 5  
