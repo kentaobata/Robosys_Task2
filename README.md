@@ -5,7 +5,7 @@ Divisor program 　
 
 tab 3  
 `rosrun mypkg multiple.py` : Shows divisors of numbers increasing by 1  
-　　
+
 [INFO] [1609763058.569654]: 241  
 素数  
 [INFO] [1609763060.571186]: 242  　　
@@ -20,14 +20,14 @@ tab 3
 81の倍数　　  
 
 tab 4  
-`rostopic echo /number`　: Show the number of divisors of each number　　
+`rostopic echo /number`　: Show the number of divisors of each number  
 
-data: 0　　
-data: 4　　
-data: 4　　
+data: 0  　
+data: 4  　
+data: 4  　
 
 # Demo  
-
+https://youtu.be/UuXclInOQUw
 
 # Operating environment  
 OS : Linux20.04.1 LTS  
@@ -44,7 +44,7 @@ Raspberry Pi 4 (8GB)
  tab 3  
  `$rosrun mypkg multiple.py`  
  tab 4  
- `$rostopic echo /number`  ｐぇ。ｐｙ
+ `$rostopic echo /number`  
  
  # Licence  
  BSD 3-Clause License  
