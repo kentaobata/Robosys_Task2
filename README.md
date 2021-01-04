@@ -1,7 +1,7 @@
 # Robot system science Task2   
 Multiple display system  　
 
-# xample of use     
+# Example of use     
 
 tab 3  
 `rosrun mypkg multiple.py`  
