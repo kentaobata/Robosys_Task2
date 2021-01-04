@@ -27,9 +27,7 @@ tab 3
 tab 4  
 `rostopic echo /number`   
 data: 4  
----  
 data: 1  
----  
 data: 5  
 
 ### Demo  
