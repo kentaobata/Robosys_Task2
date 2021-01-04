@@ -22,7 +22,7 @@ tab 3
 tab 4  
 `rostopic echo /number`　: Show the number of divisors of each number  
 
-data: 0    　
+data: 0     　
 data: 4  
 data: 4    　
 
