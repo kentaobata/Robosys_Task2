@@ -6,7 +6,7 @@ Divisor program 　
 tab 3  
 `rosrun mypkg multiple.py` : Shows divisors of numbers increasing by 1  
 
-`[INFO] [1609763058.569654]: 241  
+[INFO] [1609763058.569654]: 241  
 素数  
 [INFO] [1609763060.571186]: 242  
 2の倍数  
@@ -17,16 +17,16 @@ tab 3
 3の倍数  
 9の倍数    
 27の倍数    
-81の倍数`  　  
+81の倍数    
 
 tab 4  
 `rostopic echo /number`　: Show the number of divisors of each number  
 
-`data: 0  
+data: 0  
 ---  
 data: 4  
 ---  
-data: 4`  
+data: 4  
 
 # Demo  
 https://youtu.be/UuXclInOQUw
