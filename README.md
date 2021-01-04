@@ -25,7 +25,7 @@ tab 3
 18の倍数  
 
 tab 4  
-`rostopic echo /number` 
+`rostopic echo /number`   
 data: 4  
 ---  
 data: 1  
