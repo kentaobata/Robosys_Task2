@@ -37,15 +37,15 @@ OS : Linux20.04.1 LTS
 Raspberry Pi 4 (8GB)  
 
 # Usage
-`$git clone https://github.com/kentaobata/Robosys_Task2.git`   
+`$https://github.com/kentaobata/Robosys_Task2.git`   
  tab 1  
- `roscore`  
+ `$roscore`  
  tab 2  
- `rosrun mypkg count.py`  
+ `$rosrun mypkg count.py`  
  tab 3  
- `rosrun mypkg multiple.py`  
+ `$rosrun mypkg multiple.py`  
  tab 4  
- `rostopic echo /number`  
+ `$rostopic echo /number`  
  
  # Licence  
  BSD 3-Clause License  
