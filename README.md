@@ -1,34 +1,33 @@
 # Robot system science Task2   
-Multiple display system  　
+Divisor program 　
 
 # Example of use     
 
 tab 3  
-`rosrun mypkg multiple.py` : Display divisors up to 50, which increases by 1　　
+`rosrun mypkg multiple.py` : Shows divisors of numbers increasing by 1　　
 
-[INFO] [1609749950.749935]: 16  
-2の倍数  
-4の倍数  
-8の倍数  
-16の倍数  
-[INFO] [1609749952.750611]: 17  
-17の倍数  
-[INFO] [1609749954.750584]: 18  
-2の倍数  
-3の倍数  
-6の倍数  
-9の倍数  
-18の倍数  
+[INFO] [1609763058.569654]: 241　　
+素数　　
+[INFO] [1609763060.571186]: 242　　
+2の倍数　　
+11の倍数　　
+22の倍数　　
+121の倍数　　
+[INFO] [1609763062.571217]: 243　　
+3の倍数　　
+9の倍数　　
+27の倍数　　
+81の倍数　　
 
 tab 4  
-`rostopic echo /number`　: Show the number of divisors of each number　
+`rostopic echo /number`　: Show the number of divisors of each number　　
 
-data: 4  
-data: 1  
-data: 5  
+data: 0　　
+data: 4　　
+data: 4　　
 
 # Demo  
-https://youtu.be/uTzIXxgsg9M
+
 
 # Operating environment  
 OS : Linux20.04.1 LTS  
@@ -45,7 +44,7 @@ Raspberry Pi 4 (8GB)
  tab 3  
  `$rosrun mypkg multiple.py`  
  tab 4  
- `$rostopic echo /number`  
+ `$rostopic echo /number`  ｐぇ。ｐｙ
  
  # Licence  
  BSD 3-Clause License  
