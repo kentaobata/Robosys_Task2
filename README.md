@@ -49,7 +49,7 @@ Raspberry Pi 4 (8GB)
  # Licence  
  BSD 3-Clause License  
  
- # Refarence
+ # Reference
  https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server.git
  
  
