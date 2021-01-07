@@ -11,7 +11,7 @@ Raspberry Pi 4 (8GB)
 https://youtu.be/UuXclInOQUw
 
 # How to install
-`$https://github.com/kentaobata/Robosys_Task2.git`  
+`$git clone https://github.com/kentaobata/Robosys_Task2.git`  
 
 # How to use  
  ## tab 1  
