@@ -1,5 +1,5 @@
 # Robot system science Task2   
-Divisor system  
+Display divisors and numbers　　
 
 # Operating environment  
 OS : Linux20.04.1 LTS  
