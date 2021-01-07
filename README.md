@@ -1,5 +1,5 @@
 # Robot system science Task2   
-Divisor program 
+Divisor system  
 
 # Operating environment  
 OS : Linux20.04.1 LTS  
